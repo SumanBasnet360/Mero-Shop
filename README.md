@@ -5,7 +5,7 @@
 
 ## Team Members
 
-- **Suman Basnet**
+- **Suman Basnet** - [GitHub](https://github.com/SumanBasnet360)
 - **Saugat Dhungana** - [GitHub](https://github.com/SaugatDh)
 - **Anup Ghimire**
 - **Anil Tajpuriya**
